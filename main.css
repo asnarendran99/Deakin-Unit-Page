@@ -20,6 +20,12 @@ div {
   text-align: right;
 }
 
+header 
+{
+  background-color: blue; 
+}
+
+
 
 th, td {
   padding: 8px;
